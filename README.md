@@ -1,5 +1,5 @@
 # Final-Year-Thesis
-I'd like to give credit to my supervisor, Dr. Ramesh Kuppuswamy, and all my supportive lecturers at the University of Cape Town for their aid in my accomplishment of this undergrad thesis.
+I'd like to give credit to my supervisor, Dr. Ramesh Kuppuswamy, and all supporting lecturers at the University of Cape Town for their aid in my accomplishment of this undergrad thesis.
 
 Link to thesis - https://drive.google.com/file/d/1IiW0psQr5LioMMCvJ12dtdOP18THsoWy/view?usp=sharing
 
